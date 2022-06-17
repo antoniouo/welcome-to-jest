@@ -1,7 +1,11 @@
 // https://www.codewars.com/kata/56dec885c54a926dcd001095/train/javascript
 
 const oppositeNumber = (num) => {
-  /* Тут код*/
+  if (num !== 0) {
+    return -num
+  }
+  return num
 }
 
 module.exports = oppositeNumber
+

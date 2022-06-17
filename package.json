@@ -1,14 +1,14 @@
 {
   "name": "welcome-to-jest",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Изучить Jest](https://github.com/Elbrus-Bootcamp/manuals/blob/master/jasmine.md)",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Elbrus-Bootcamp/welcome-to-js"
+    "url": "git+https://github.com/Elbrus-Bootcamp/welcome-to-js.git"
   },
   "keywords": [],
   "author": "",
